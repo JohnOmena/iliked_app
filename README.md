@@ -13,7 +13,7 @@
 
 - [x] Neural network convolution
 
-## Final Accuracy (15 epoch)
+## Final Accuracy (20 epoch)
 
 ![screenshot](accuracy.png)
 
